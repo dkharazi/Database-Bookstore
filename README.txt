@@ -2,13 +2,15 @@ Table of Contents
 
 
 Part I - Report
+
    Section 1 - Database Description
         - All parts of the Database Description are contained in the Database_Description.pdf file.
-	
    Section 2 - User Manual
         - All parts of the User Manual are contained in the User_Manual.pdf file.
 
+
 Part II - The SQL Database
+
    -A README.txt file is included to help explain relevant text files.
    -All of the following database files are contained in the folder “Database”.
        -The actual database file is a binary file, titled “FinalBookstore.sqlite”
