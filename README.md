@@ -9,11 +9,11 @@ To use the SQL statements contained in this folder, a compatible DBMS software m
 
 ## File Descriptions
 
-1. Database Description
+Database Description
     - All parts of the Database Description are contained in the Database_Description.pdf file.
-2. User Manual
+User Manual
     - All parts of the User Manual are contained in the User_Manual.pdf file.
-3. The SQL Database
+The SQL Database
     - A 'README.md' file that explains any relevant files.
     - A 'FinalBookstore.sqlite' binary file that creates a completed version of the database.
     - A 'SQLCreate.sql' file that creates the tables in the database.
