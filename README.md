@@ -1,9 +1,9 @@
 ## Table of Contents
 
 1. Database Description  
-- All parts of the Database Description are contained in the Database_Description.pdf file.
+   - All parts of the Database Description are contained in the Database_Description.pdf file.
 2. User Manual  
-- All parts of the User Manual are contained in the User_Manual.pdf file.
+   - All parts of the User Manual are contained in the User_Manual.pdf file.
 
 
 Part II - The SQL Database
