@@ -1,9 +1,8 @@
 ## Table of Contents
 
-Part I - Report
-Section 1 - Database Description
+1. Database Description  
 - All parts of the Database Description are contained in the Database_Description.pdf file.
-Section 2 - User Manual
+2. User Manual  
 - All parts of the User Manual are contained in the User_Manual.pdf file.
 
 
