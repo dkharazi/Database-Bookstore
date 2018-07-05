@@ -1,4 +1,4 @@
-## File Description
+## File Descriptions
 
 1. Database Description  
    - All parts of the Database Description are contained in the Database_Description.pdf file.
