@@ -16,7 +16,7 @@ User Manual
 - All parts of the User Manual are contained in the User_Manual.pdf file.  
 
 The SQL Database
-A 'README.md' file that explains any relevant files.
+- A 'README.md' file that explains any relevant files.
 - A 'FinalBookstore.sqlite' binary file that creates a completed version of the database.
 - A 'SQLCreate.sql' file that creates the tables in the database.
 - A 'SQLInsert.sql' file that inserts certain entries into tables.
